@@ -63,4 +63,3 @@ module.exports = Utils =
     try
       atom.clipboard.write(atom.workspace.getActiveTextEditor().getPath())
     catch
-      
